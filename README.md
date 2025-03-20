@@ -1,6 +1,8 @@
-# GSRTC Optimization Suite
+# GSRTC Optimization Suite (Gujarat State Road Transport Corporation)
 
-![GSRTC Optimization Suite](https://placeholder.svg?height=250&width=600)
+![GSRTC Logo](https://gsrtc.in/site/downloads/images/logo.png)
+
+🔗 **Live Demo:** [GSRTC Optimization Suite](https://gsrtc-ai-powered-model.vercel.app/)
 
 ## 🚌 Overview
 
